@@ -1,6 +1,6 @@
 version: '3'
 services:
   console:
-    image: docker.io/library/testwebhook:latest
+    image: iamsobowale/console:latest
     container_name: Console
     
