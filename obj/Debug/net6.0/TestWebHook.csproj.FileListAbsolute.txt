@@ -1,0 +1,15 @@
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\bin\Debug\net6.0\TestWebHook.exe
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\bin\Debug\net6.0\TestWebHook.deps.json
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\bin\Debug\net6.0\TestWebHook.runtimeconfig.json
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\bin\Debug\net6.0\TestWebHook.dll
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\bin\Debug\net6.0\TestWebHook.pdb
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.csproj.AssemblyReference.cache
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.AssemblyInfoInputs.cache
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.AssemblyInfo.cs
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.csproj.CoreCompileInputs.cache
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.dll
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\refint\TestWebHook.dll
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.pdb
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\TestWebHook.genruntimeconfig.cache
+C:\Users\iamso\OneDrive\Desktop\TestWebHook\obj\Debug\net6.0\ref\TestWebHook.dll
