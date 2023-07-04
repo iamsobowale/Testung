@@ -6,7 +6,7 @@ namespace TestWebHook
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("3degrget");
+            Console.WriteLine("3deget");
         }
     }
 }
