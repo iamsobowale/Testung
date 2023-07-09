@@ -6,7 +6,7 @@ namespace TestWebHook
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("linux test");
+            Console.WriteLine("wsl final test");
         }
     }
 }
